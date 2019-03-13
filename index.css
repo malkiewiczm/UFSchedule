@@ -1,0 +1,59 @@
+body {
+	font-family:sans;
+	font-size:12pt;
+}
+
+a {
+	color:#0000ff;
+}
+
+.table-stripe {
+	background-color:#dddddd;
+}
+
+.table-header td {
+	width:10%;
+}
+
+#sidebar {
+	display:block;
+	width:15%;
+	height:100%;
+	float:left;
+	padding-right:2%;
+}
+
+#sidebar div button {
+	width:100%;
+}
+
+.main-body {
+	display:block;
+	margin-left:15%;
+}
+
+.main-body div {
+	padding:15px;
+}
+
+#conflict-resolve {
+	display:none;
+	border:solid 2px;
+}
+
+#now-selecting {
+	font-weight:bold;
+}
+
+#modal {
+	display:none;
+	position:absolute:
+	left:0px;
+	top:0px;
+	margin-left:10%;
+	text-align:center;
+	width:80%;
+	padding:15px;
+	background-color:white;
+	border:solid 2px black;
+}

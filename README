@@ -1,0 +1,7 @@
+UFSchedule
+
+This is a web app that allows you to try many different schedules.
+
+Also included is a php script that mirrors the oneUF api, I did this
+because of cross site scripting issues... so the code can be changed
+to not go through soc.php, if necessary.
